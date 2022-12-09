@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func DrawXYZ(n int) string {
-	// your code here
+	return "Hello World"
 }
 
 func main() {
